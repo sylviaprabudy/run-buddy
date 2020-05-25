@@ -12,3 +12,5 @@ https://sylviaprabudy.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Sylvia Prabudy]
+
+### ©️2020 Run Buddy, Inc 
